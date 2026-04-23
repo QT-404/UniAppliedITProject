@@ -6,11 +6,11 @@
 
 | Role | Name |
 |---|---|
-| Product Owner | Test Kubra Tas not any more |
-| Scrum Master | |
-| Developer |Brinda|
-| Developer | |
-| Developer | |
+| Team Leader | Test Kubra Tas not any more |
+| Team Member 1 | |
+| Team Member 2 |Brinda|
+| Team Member 3 | |
+| Team Member 4 | |
 
 ## Project Overview
 
