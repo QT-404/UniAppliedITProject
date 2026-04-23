@@ -4,13 +4,13 @@
 
 ## Team
 
-| Role | Name |
+| Role | NickName | Name |
 |---|---|
-| Team Leader | Kubra Tas |
-| Team Member 1 | Lalit Deshmukh|
-| Team Member 2 |Vaishnavi Akula|
-| Team Member 3 | Sandrin |
-| Team Member 4 | dj |
+| Team Leader | Q | Kubra Tas |
+| Team Member 1 | Lalit | Lalit Deshmukh |
+| Team Member 2 | Brinda | Akula Vaishnavi |
+| Team Member 3 | Sandy | Wihbedimbom Sandrin |
+| Team Member 4 | dj | David John Espiritu |
 
 ## Project Overview
 
