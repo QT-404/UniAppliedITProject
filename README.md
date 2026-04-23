@@ -6,7 +6,7 @@
 
 | Role | Name |
 |---|---|
-| Product Owner | Kubra Tas |
+| Product Owner | Test Kubra Tas |
 | Scrum Master | |
 | Developer | |
 | Developer | |
