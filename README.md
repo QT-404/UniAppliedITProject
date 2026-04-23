@@ -6,7 +6,7 @@
 
 | Role | Name |
 |---|---|
-| Team Leader | Test Kubra Tas not any more |
+| Team Leader | Kubra Tas |
 | Team Member 1 | |
 | Team Member 2 |Brinda|
 | Team Member 3 | |
