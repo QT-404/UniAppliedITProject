@@ -7,7 +7,7 @@
 | Role | Name |
 |---|---|
 | Team Leader | Kubra Tas |
-| Team Member 1 | |
+| Team Member 1 | Lalit|
 | Team Member 2 |Brinda|
 | Team Member 3 | |
 | Team Member 4 | |
