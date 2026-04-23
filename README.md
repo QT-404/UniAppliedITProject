@@ -5,7 +5,7 @@
 ## Team
 
 | Role | NickName | Name |
-|---|---|
+|---|---|---|
 | Team Leader | Q | Kubra Tas |
 | Team Member 1 | Lalit | Lalit Deshmukh |
 | Team Member 2 | Brinda | Akula Vaishnavi |
