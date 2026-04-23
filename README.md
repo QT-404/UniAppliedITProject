@@ -8,7 +8,7 @@
 |---|---|
 | Product Owner | Test Kubra Tas not any more |
 | Scrum Master | |
-| Developer | |
+| Developer |Brinda|
 | Developer | |
 | Developer | |
 
