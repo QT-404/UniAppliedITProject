@@ -9,7 +9,7 @@
 | Team Leader | Kubra Tas |
 | Team Member 1 | Lalit|
 | Team Member 2 |Brinda|
-| Team Member 3 | |
+| Team Member 3 | Sandrin |
 | Team Member 4 | |
 
 ## Project Overview
