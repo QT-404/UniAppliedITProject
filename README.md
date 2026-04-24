@@ -6,7 +6,7 @@
 
 | Role | NickName | Name |
 |---|---|---|
-| Team Leader | Q | Kubra Tas |
+| Team Leader | Q | Kubra Tas Test |
 | Team Member 1 | Lalit | Lalit Deshmukh |
 | Team Member 2 | Brinda | Akula Vaishnavi |
 | Team Member 3 | Sandy | Wihbedimbom Sandrin |
