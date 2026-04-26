@@ -6,13 +6,13 @@ _Due: Session 5 — 05 May_
 
 ## Vision Statement
 
-> **For** [target users]  
-> **Who** [have this problem / need]  
-> **Our product** [product name]  
-> **Is a** [category]  
-> **That** [key benefit / reason to use it]  
-> **Unlike** [current alternative]  
-> **Our product** [key differentiator]
+> **For** [For Adult Men and Women whom are struggling at styling]
+> **Who** [Fashion Beginners or people who needs to keep up with trends]  
+> **Our product** [Wear It Right]  
+> **Is a** [Fashion Tracker & Stylist]  
+> **That** [Gives styling ideas according to the body size and weather as well as shopping recommendations]  
+> **Unlike** [Keeps up with the weather and is not like a traditional fashion site, our product is a manual selection which would not require a lot of time and effort]  
+> **Our product** [Delivers quick, smart and personalized outfits making it easy and efficient]
 
 ---
 
