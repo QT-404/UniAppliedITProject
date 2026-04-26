@@ -6,7 +6,7 @@ _Due: Session 5 — 05 May_
 
 ## Vision Statement
 
-> **For** [For Adult Men and Women whom are struggling at styling]  
+> **For** [For Adult Men and Women who are struggling at styling]  
 > **Who** [Fashion Beginners or people who needs to keep up with trends]  
 > **Our product** [Wear It Right]  
 > **Is a** [Fashion Tracker & Stylist]  
